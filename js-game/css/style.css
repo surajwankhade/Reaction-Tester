@@ -1,0 +1,15 @@
+body {
+            font-family:Verdana, Geneva, sans-serif;
+		}
+		
+#box{
+            height: 50px;
+            width: 50px;
+            background-color: blueviolet;
+            position: relative;
+            
+        }
+		
+#one{
+            font-weight: bold;
+        }
